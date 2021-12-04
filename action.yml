@@ -1,6 +1,6 @@
 name: 'my first container action'
 description: 'Azalio Technologies'
-author: 'yashwant'
+author: 'yash'
 inputs:
   myInput:
     description: 'greeting to use'
